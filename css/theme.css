@@ -297,11 +297,12 @@
 }
 .wd_logo {
     position: relative;
-    margin-bottom: 48px;
+    margin-bottom: 40px;
+    margin-top: 30px;
 }
 .wd_logo img {
-    max-width: 100%;
-    height: auto;
+    max-width: 40%;
+    height: 40%;
 }
 .about_widget_area > p{
     margin: 0 0 47px;
