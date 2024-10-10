@@ -412,7 +412,7 @@
     background: url(../images/home_01/welcomeskin.jpg) no-repeat right bottom #f0f0f1;
     min-height: 274px;
     padding: 54px 0 65px 55px;
-
+    margin-bottom: 16px;
     transition: all ease 400ms;
     -moz-transition: all ease 400ms;
     -webkit-transition: all ease 400ms;
@@ -432,6 +432,12 @@
 }
 .abBg2{
     background: url(../images/home_01/welcomehair.jpg) no-repeat right bottom #f0f0f1;
+}
+.abBg3{
+    background: url(../images/home_01/body.jpg) no-repeat right bottom #f0f0f1;
+}
+.abBg4{
+    background: url(../images/home_01/surgical.jpg) no-repeat right bottom #f0f0f1;
 }
 
 /*-- About Section ---*/
@@ -659,7 +665,8 @@
 /*-- Appoinment Section ---*/
 .appointment_area{
     position: relative;
-    background: url(../images/bg/13.png) no-repeat center center / cover #fff6f4;
+    background: #fff6f4;
+    /* background: url(../images/bg/13.png) no-repeat center center / cover #fff6f4; */
     padding: 118px 60px 136px;
     border: 10px solid #fff;
     border-radius: 10px;
